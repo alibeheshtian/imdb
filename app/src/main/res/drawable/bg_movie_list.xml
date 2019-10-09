@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Bottom 10dp Shadow -->
+    <item>
+        <shape>
+            <solid android:color="#55d8d8d8" />
+            <corners
+                android:bottomRightRadius="16dp"
+                android:topRightRadius="16dp" />
+        </shape>
+    </item>
+
+    <!-- White Top color for movie content -->
+
+    <item
+        android:bottom="10px"
+        android:left="5px">
+        <shape>
+            <solid android:color="@color/white" />
+            <corners
+                android:bottomRightRadius="16dp"
+                android:topRightRadius="16dp" />
+            <padding
+                android:bottom="8dp"
+                android:left="8dp"
+                android:right="8dp"
+                android:top="8dp" />
+        </shape>
+
+    </item>
+
+</layer-list>

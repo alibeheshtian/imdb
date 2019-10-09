@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yaran</string>
+    <string name="check_your_internet">Check your internet</string>
+    <string name="retry">Retry</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the standard dummy text ever since the 1500s, when an unknown printer took a galley.</string>
+    <string name="year">Released: "%1$s"</string>
+    <string name="actors">Actors</string>
+    <string name="description">Description</string>
+    <string name="votes">IMDB Votes: "%1$s"</string>
+    <string name="movie_detail">"%1$s"  |  "%2$s"  |  "%3$s"</string>
+</resources>
